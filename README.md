@@ -27,5 +27,9 @@ I'm Dave, a FullStack Developer  👨‍💻 based in Belize, Central America (t
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [How Ethereum Works (featuring Spongebob GIFs)](https://davidmcintosh.medium.com/how-ethereum-works-featuring-spongebob-gifs-d7916e043325?source=rss-5f92ec40ee64------2)
+- [Auto-focusing an Angular Input — The Easy Way? (Part 2 — Directives)](https://davidmcintosh.medium.com/auto-focusing-an-angular-input-the-easy-way-part-2-directives-ac9dc9a7ec73?source=rss-5f92ec40ee64------2)
+- [Auto-focusing an Angular Input — The Easy Way? (Part 1)](https://levelup.gitconnected.com/auto-focusing-an-angular-input-the-easy-way-part-1-dcb1799e025f?source=rss-5f92ec40ee64------2)
+- [What’s in the Package? How to Create an NPM module in TypeScript](https://medium.com/swlh/whats-in-the-package-how-to-create-an-npm-module-in-typescript-6acf9585c09e?source=rss-5f92ec40ee64------2)
+- [What A Load: Load Testing APIs](https://davidmcintosh.medium.com/what-a-load-load-testing-apis-aea1ce5fba44?source=rss-5f92ec40ee64------2)
 <!-- BLOG-POST-LIST:END -->
